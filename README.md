@@ -7,3 +7,4 @@ https://christopher5106.github.io/deep/learning/2015/09/04/Deep-learning-tutoria
 https://devtalk.nvidia.com/default/topic/1044473/jetson-agx-xavier/caffe-installation-on-xavier/1
 ## NVCaffe Docker
 https://docs.nvidia.com/deeplearning/frameworks/caffe-release-notes/running.html
+https://docs.nvidia.com/deeplearning/frameworks/caffe-release-notes/rel_19-11.html#rel_19-11
