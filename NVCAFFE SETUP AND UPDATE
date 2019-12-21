@@ -1,7 +1,7 @@
 ***************  NVCAFFE SETUP AND UPDATE *********************
 $ docker pull nvcr.io/nvidia/caffe:19.11-py3
 
-$ docker run --gpus all --rm -ti -p 8888:8888 nvcr.io/nvidia/caffe:19.11-py3
+$ docker run --rm -ti -p 8888:8888 nvcr.io/nvidia/caffe:19.11-py3
 
 NVCAFFE Jupyter Notebook
 # jupyter notebook --ip 0.0.0.0 --no-browser --allow-root
