@@ -8,3 +8,6 @@ https://devtalk.nvidia.com/default/topic/1044473/jetson-agx-xavier/caffe-install
 ## NVCaffe Docker
 https://docs.nvidia.com/deeplearning/frameworks/caffe-release-notes/running.html
 https://docs.nvidia.com/deeplearning/frameworks/caffe-release-notes/rel_19-11.html#rel_19-11
+
+## Docker CLI
+https://docs.docker.com/engine/reference/commandline/cli/
