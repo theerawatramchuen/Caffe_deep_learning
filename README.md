@@ -1,3 +1,5 @@
+## This example shows how to use python to consume a DIGITS model and classify images
+https://github.com/NVIDIA/DIGITS/tree/master/examples/classification
 # Caffe_deep_learning
 ## Installation Windows10 Anaconda Caffe 1.0.0
 https://stackoverflow.com/questions/57700632/install-and-import-caffe-with-anaconda-on-windows-10
@@ -8,6 +10,5 @@ https://devtalk.nvidia.com/default/topic/1044473/jetson-agx-xavier/caffe-install
 ## NVCaffe Docker
 https://docs.nvidia.com/deeplearning/frameworks/caffe-release-notes/running.html
 https://docs.nvidia.com/deeplearning/frameworks/caffe-release-notes/rel_19-11.html#rel_19-11
-
 ## Docker CLI
 https://docs.docker.com/engine/reference/commandline/cli/
