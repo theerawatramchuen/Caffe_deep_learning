@@ -1,6 +1,6 @@
+# Caffe_deep_learning
 ## This example shows how to use python to consume a DIGITS model and classify images
 https://github.com/NVIDIA/DIGITS/tree/master/examples/classification
-# Caffe_deep_learning
 ## Installation Windows10 Anaconda Caffe 1.0.0
 https://stackoverflow.com/questions/57700632/install-and-import-caffe-with-anaconda-on-windows-10
 ## Sample Python Code
