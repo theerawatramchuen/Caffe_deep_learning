@@ -13,9 +13,12 @@ import matplotlib.pyplot as plt
 
 import caffe
 
-MODEL_FILE = '/home/theerawatra/caffe/examples/mnist/lenet.prototxt'
-PRETRAINED = '/home/theerawatra/caffe/examples/mnist/lenet_iter_10000.caffemodel'
-IMAGE_FILE = '/home/theerawatra/caffe/examples/mnist/number.jpeg'
+#PATHS = '/home/theerawatra/caffe/examples/mnist/'
+PATHS = ''
+
+MODEL_FILE = PATHS + 'lenet.prototxt'
+PRETRAINED = PATHS + 'lenet_iter_10000.caffemodel'
+IMAGE_FILE = PATHS + '33.jpeg'
 
 input_image = caffe.io.load_image(IMAGE_FILE, color=False)
 net = caffe.Classifier(MODEL_FILE, PRETRAINED)
