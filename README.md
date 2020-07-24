@@ -14,3 +14,5 @@ https://docs.nvidia.com/deeplearning/frameworks/caffe-release-notes/running.html
 https://docs.nvidia.com/deeplearning/frameworks/caffe-release-notes/rel_19-11.html#rel_19-11
 ## Docker CLI
 https://docs.docker.com/engine/reference/commandline/cli/
+## Caffe Installation on Ubuntu 18.04 LTS (Python 2.7)
+https://medium.com/@atinesh/caffe-installation-on-ubuntu-18-04-lts-python-2-7-8e8c388ce51f
